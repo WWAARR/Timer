@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DZ\DZ\bin\Debug\DZ.exe.config
+C:\Users\user\source\repos\DZ\DZ\bin\Debug\DZ.exe
+C:\Users\user\source\repos\DZ\DZ\bin\Debug\DZ.pdb
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.Form1.resources
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.exe
+C:\Users\user\source\repos\DZ\DZ\obj\Debug\DZ.pdb
